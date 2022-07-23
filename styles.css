@@ -13,6 +13,7 @@ html{
     align-items: center;
     position: sticky;
     top: 0px;
+    z-index: 1;
 }
 #navbar::before{
     content: "";
